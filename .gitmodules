@@ -1,0 +1,3 @@
+[submodule "newsubtest"]
+	path = newsubtest
+	url = https://github.com/mtagala-tcs/sub1
